@@ -409,25 +409,14 @@ input[type=checkbox]:checked ~ #archive-content {
   background-color: #fff;
 }
 
-.fixed-image-section {
-  padding: 117px 20px;
-  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .25), rgba(0, 0, 0, .25)), url('../images/example-bg.png');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .25), rgba(0, 0, 0, .25)), url('../images/example-bg.png');
-  background-position: 0px 0px, 50% 50%;
-  background-size: auto, 125px;
-  background-attachment: scroll, fixed;
-  color: #fff;
-  text-align: center;
-}
-
 .hero-section {
   height: 300px;
   padding-top: 52px;
   background-color: #6088c1;
-  background-image: url('../images/_MG_3509-5.jpg');
-  background-position: 23% 17%;
+	background-image: url('../images/banner.jpg');
   background-size: cover;
   background-attachment: scroll;
+  background-position: 50% 25%;
   text-align: center;
 }
 
@@ -1086,9 +1075,6 @@ input[type=checkbox]:checked ~ #archive-content {
   .hero-slider {
     height: 400px;
   }
-  .hero-section {
-    background-position: 0px -3px;
-  }
   .form-wrapper.squeezed {
     padding-right: 0%;
     padding-left: 0%;
@@ -1161,9 +1147,6 @@ input[type=checkbox]:checked ~ #archive-content {
   .cta-heading {
     margin-bottom: 10px;
   }
-  .hero-section {
-    background-position: 0px 0px;
-  }
   .form-wrapper.squeezed {
     padding-right: 0px;
     padding-left: 0px;
@@ -1218,7 +1201,7 @@ input[type=checkbox]:checked ~ #archive-content {
   }
 }
 
-@media (max-width: 479px) {
+@media (max-width: 479px) {  
   .button.tab {
     margin-bottom: 9px;
   }
@@ -1228,10 +1211,6 @@ input[type=checkbox]:checked ~ #archive-content {
   .slide {
     padding-right: 53px;
     padding-left: 53px;
-  }
-  .hero-section {
-    background-position: 50% 0px;
-    background-size: 190%;
   }
   .form-wrapper.squeezed {
     padding-right: 0px;
