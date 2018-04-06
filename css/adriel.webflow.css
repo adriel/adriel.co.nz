@@ -98,14 +98,14 @@ input[type=checkbox]:checked ~ #archive-content {
 }
 
 .hero-section {
-  height: 300px;
-  padding-top: 52px;
-  background-color: #6088c1;
-  background-image: url('../images/banner.jpg');
-  background-size: cover;
-  background-attachment: scroll;
-  background-position: 50% 25%;
-  text-align: center;
+	height: 300px;
+	padding-top: 52px;
+	background-color: #6088c1;
+	background-image: url('../images/banner.jpg');
+	background-size: cover;
+	background-attachment: scroll;
+	background-position: 50% 25%;
+	text-align: center;
 }
 
 .hero-heading {
@@ -248,6 +248,11 @@ input[type=checkbox]:checked ~ #archive-content {
 	background-color: #fff;
 }
 
+@media (min-width: 991px) {
+	.hero-section {
+		background-position: 50% 40%;
+	}
+}
 
 @media (max-width: 991px) {
   .content {
