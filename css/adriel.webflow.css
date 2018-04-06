@@ -49,7 +49,7 @@ strong {
 
 .link-icon.blue {
 	/* Icon from fontawesome.com */
-	background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 576 512'%3E%3Cpath fill='hsl(206, 85%, 60%)' d='M576 24v128c0 21-26 32-41 17l-36-36-243 244c-10 9-25 9-34 0l-23-23c-9-9-9-24 0-34L443 77l-36-36c-15-15-4-41 17-41h128c13 0 24 11 24 24zM407 271l-16 16a24 24 0 0 0-7 17v144H64V128h264a24 24 0 0 0 17-7l16-16c15-15 4-41-17-41H48C21 64 0 85 0 112v352c0 27 21 48 48 48h352c27 0 48-21 48-48V288c0-22-26-32-41-17z'/%3E%3C/svg%3E") no-repeat;
+	background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 576 512'%3E%3Cpath fill='%2343a3f0' d='M576 24v128c0 21-26 32-41 17l-36-36-243 244c-10 9-25 9-34 0l-23-23c-9-9-9-24 0-34L443 77l-36-36c-15-15-4-41 17-41h128c13 0 24 11 24 24zM407 271l-16 16a24 24 0 0 0-7 17v144H64V128h264a24 24 0 0 0 17-7l16-16c15-15 4-41-17-41H48C21 64 0 85 0 112v352c0 27 21 48 48 48h352c27 0 48-21 48-48V288c0-22-26-32-41-17z'/%3E%3C/svg%3E") no-repeat;
 	margin-top: 2px;	
 }
 
