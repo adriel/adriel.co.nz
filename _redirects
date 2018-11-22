@@ -2,7 +2,8 @@
 https://adriel.netlify.com/* https://adriel.co.nz/:splat 301!
 /blog/2015/10/ https://blog.adriel.co.nz/2017/09/05/advancedtomato-on-the-linksys-ea6700/
 /blog/* https://blog.adriel.co.nz/:splat 301!
+/news/ https://news.adriel.co.nz/
 /USB_Satellite_TV/ https://core.adriel.co.nz/USB_Satellite_TV
 /Main_Page/ https://core.adriel.co.nz/Main_Page
 /Install_sntop_on_a_Mac/ https://core.adriel.co.nz/Install_sntop_on_a_Mac
-/news/ https://news.adriel.co.nz/
+/Remove_dup_apps_in_Open_With/ https://core.adriel.co.nz/Remove_dup_apps_in_Open_With
